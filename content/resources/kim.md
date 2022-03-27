@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 47485b70-a0f4-dc83-a50b-d38f6c9950c4
 resourcetype: Document
 title: West Philadelphia Landscape Project
 uid: ed844137-7287-7d5c-69a0-64844467b52b
