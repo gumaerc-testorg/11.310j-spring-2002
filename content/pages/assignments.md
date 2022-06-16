@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on course requirements and grading.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
