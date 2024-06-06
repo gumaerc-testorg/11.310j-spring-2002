@@ -4,6 +4,7 @@ description: Example of student work for a project to create a website to enable
   Creek community members to represent their neighborhood to themselves and to other
   communities.
 file: /courses/11-310j-media-technology-and-city-design-and-development-spring-2002/20274ccf2165fd0c4d2de3918618c8ae_duritz.pdf
+file_size: 130596
 file_type: application/pdf
 learning_resource_types:
 - Projects
